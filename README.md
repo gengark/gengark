@@ -4,10 +4,6 @@
 
 <p align="center">Open-source simple, vertical-field applications that save me time on chores.</p>
 
----
-
 <pre align="center">
   <a href="https://github.com/kabeep">GITHUB</a> • <a href="https://www.instagram.com/amoytac97/">INSTAGRAM</a> • <a href="https://bsky.app/profile/kabeep.bsky.social">BLUESKY</a> • <a href="https://discord.gg/ekwVu3nr">DISCORD</a> • <a href="https://www.cnblogs.com/97z4moon">BLOG</a>
 </pre>
-
----
